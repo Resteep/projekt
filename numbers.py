@@ -27,4 +27,7 @@ last_name = input('please enter your last name: ')
 output = f'Hello, {first_name.capitalize()} {last_name.capitalize()}'
 print(output)
 #print('Pappa')
+<<<<<<< HEAD
+>>>>>>> 193db62581fc55d22241703c03085e31d19c6eca
+=======
 >>>>>>> 193db62581fc55d22241703c03085e31d19c6eca
